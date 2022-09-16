@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#header{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.logo{
+    min-height: 100px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width:50%;
+    background-color:blue;
+    margin-left: 7px;
+}

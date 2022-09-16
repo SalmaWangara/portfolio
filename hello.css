@@ -1,0 +1,21 @@
+
+    .hello{
+        font-weight:bold;
+        font-size: 4.125rem;
+        line-height: 1.1;
+        text-align: centre;
+        font-family: 'Times New Roman', Times, serif
+    }
+
+    .web{
+        font-weight: bold;
+        font-size: 2.1rem;
+        line-height: 0.7;
+        text-align:center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: blue;
+    }
+
+    .view{
+        font-size:20px;
+    }
